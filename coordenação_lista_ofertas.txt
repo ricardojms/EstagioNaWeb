@@ -1,0 +1,238 @@
+<HTML>
+<HEAD>
+<style type="text/css">
+html {
+background: url("http://i60.tinypic.com/2diokyu.jpg") repeat; }
+</style>
+<center>
+<a href="file:///C:/Users/Georgia/Desktop/trapalho_prog/home.html"><img src="http://i57.tinypic.com/33jsbad.jpg"></a>
+<style>
+    .menufita-ribmenu span {
+        background:#ADD8E6;
+        display:inline-block;
+        font-family:tahoma;
+        line-height:2em;
+padding: 0 1em;
+        align: center;
+        position:center;
+          -webkit-transition: background-color 0.2s, margin-top 0.2s;  /* Saf3.2+, Chrome */
+        -moz-transition: background-color 0.2s, margin-top 0.2s;  /* FF4+ */
+        -ms-transition: background-color 0.2s, margin-top 0.2s;  /* IE10 */
+        -o-transition: background-color 0.2s, margin-top 0.2s;  /* Opera 10.5+ */
+        transition: background-color 0.2s, margin-top 0.2s;
+    }
+    .menufita-ribmenu a:hover span {
+        background:#E0FFFF;
+        margin-top:0;
+     
+    }
+    .menufita-ribmenu a:link, .menufita-ribmenu a:visited {
+        color:#000;
+        text-decoration:none;
+        float:center;
+        height:0.5em;
+        overflow:hidden;
+    }
+  
+    .menufita-ribmenu:after {
+        border-right-color:transparent;
+    }
+    .menufita-ribmenu:before {
+        border-left-color:transparent;
+    }
+    </style>
+
+<div class='menufita-ribmenu'>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/coord_login.html'><span>COORDENÇÃO</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/professores.html'><span>PROFESSORES ORIENTADORES</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/aluno.html'><span>ALUNOS</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/empresas.html'><span>EMPRESAS</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/visitante.html'><span>VISITANTE</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/sobre.html'><span>SOBRE</span></a>
+</div>
+<br>
+</center>
+</HEAD>
+
+<BODY>
+<center>
+Você está em: <b>COORDENAÇÃO > LOGIN > OFERTAS DE ESTÁGIOS DISPONÍVEIS</b>
+<br>
+<br>
+<style type="text/css">
+table {
+    border: 1px solid #000;
+    font-family: Verdana,sans-serif;
+    font-size: 12px;
+    margin: 10px auto;
+    width: 70%;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+thead tr:nth-child(1) {
+    background: #ADD8E6;
+    color: #fff;
+}
+tbody tr:nth-child(odd) {
+    background: #eee;
+}
+</style>
+
+
+<table>
+<thead>
+            <tr>
+              <th>NOME DA EMPRESA</th>
+              <th>AREA DO ESTÁGIO</th>
+              <th>SALÁRIO</th>
+              <th>NÚMERO DE VAGAS</th>
+              <th>ADICIONAIS</th>
+              <th>HORÁRIO</th>
+              <th>DURAÇÃO</th>
+	      <th>RENOVAÇÃO</th>
+              <th>REQUISITOS</th>
+	      <th>DATA DE CADRASTRO</th>            
+</tr>
+</thead>
+
+<tr>
+          <td>Empresa 1</td>
+          <td>Estágio de Logística</td>
+          <td>R$1.500,00</td>
+	  <td>03 vagas</td>
+	  <td> Vale Alimentação;<br>
+	       Vale Transporte;	 </td>
+          <td> 08:00 ás 14:00</td>
+	  <td> 1 ano </td>
+	  <td> Possível </td>
+	  <td> Nenhum Requisito </td>
+	  <td> 25/09/2015 </td>					
+</tr>
+     
+<tr>
+          <td>Empresa 2</td>
+          <td>Estágio de Eletônica</td>
+          <td>R$1.265,00</td>
+	  <td>1 vaga</td>
+          <td>Vale Transporte</td>
+          <td>7:00 às 12:00</td>
+	  <td>6 meses</td>
+          <td>Indisponível</td>
+          <td>Cursando 2°, 3° ou 4° ano; <br>
+		Conhecimento em assistência Técnica; </td>
+	  <td>02/09/2015</td>
+         
+</tr>
+<tr>
+          <td>Empresa 3</td>
+          <td>Estágio de Administração</td>
+          <td>R$1.000,00</td>
+	  <td>2 vaga</td>
+          <td>Vale Transporte; <br> Vale Alimentação.</td>
+          <td>7:00 às 11:00</td>
+	  <td>1 ano</td>
+          <td>Indisponível</td>
+          <td>Ensino superior em Administração</td>
+	  <td>30/09/2015</td>
+         
+</tr>
+<tr>
+          <td>Empresa 4</td>
+          <td>Estágio de Marketing</td>
+          <td>R$1.300,00</td>
+	  <td>1 vaga</td>
+          <td>-</td>
+          <td>8:00 às 15:00</td>
+	  <td>6 meses</td>
+          <td>Possível</td>
+          <td>Photoshop básico, inglês básico, Excel básico, Internet básico</td>
+	  <td>03/10/2015</td>
+         
+</tr>
+<tr>
+          <td>Empresa 5</td>
+          <td>Estágio de Ciências Comtábeis</td>
+          <td>R$800,00</td>
+	  <td>3 vaga</td>
+          <td>Vale Transporte</td>
+          <td>8:00 às 14:00</td>
+	  <td>6 meses</td>
+          <td>Possível</td>
+          <td>Cursando ensino superior em economia ou ciências contábeis</td>
+	  <td>26/09/2015</td>
+         
+</tr>
+<tr>
+          <td>Empresa 6</td>
+          <td>Estágio de Direito</td>
+          <td>R$1.000,00</td>
+	  <td>01 vagas</td>
+	  <td> Vale Alimentação;<br>
+	       Vale Transporte;	 </td>
+          <td> 08:00 ás 14:00</td>
+	  <td> 4 meses </td>
+	  <td> Possível </td>
+	  <td> 2º ano de direito </td>
+	  <td> 28/09/2015 </td>					
+</tr>
+     
+<tr>
+          <td>Empresa 7</td>
+          <td>Estágio de Farmácia</td>
+          <td>R$705,00</td>
+	  <td>1 vaga</td>
+          <td>Vale Transporte</td>
+          <td>8:00 às 12:00</td>
+	  <td>6 meses</td>
+          <td>Possível</td>
+          <td>Cursando 2°, 3° ou 4° ano de Farmácia</td>
+	  <td>04/10/2015</td>
+         
+</tr>
+<tr>
+          <td>Empresa 8</td>
+          <td>Estágio de Direito</td>
+          <td>R$1.700,00</td>
+	  <td>1 vaga</td>
+          <td>Vale Transporte;</td>
+          <td>7:00 às 15:00</td>
+	  <td>1 ano</td>
+          <td>Indisponível</td>
+          <td>3º ou 4º ano de direito</td>
+	  <td>07/09/2015</td>
+         
+</tr>
+<tr>
+          <td>Empresa 9</td>
+          <td>Estágio de Vendas</td>
+          <td>R$788,00</td>
+	  <td>2 vaga</td>
+          <td>Vale Transporte; <br> Vale Alimentação.</td>
+          <td>8:00 às 14:00</td>
+	  <td>3 meses</td>
+          <td>Possível</td>
+          <td>Ensino médio completo
+	  <td>16/09/2015</td>
+         
+</tr>
+<tr>
+          <td>Empresa 10</td>
+          <td>Estágio de Administração</td>
+          <td>R$1.000,00</td>
+	  <td>1 vaga</td>
+          <td>-</td>
+          <td>7:00 às 12:30</td>
+	  <td>6 meses</td>
+          <td>Possível</td>
+          <td>Cursando ensino superior em economia ou Administração</td>
+	  <td>20/09/2015</td>
+         
+</tr>
+
+</table>
+
+</BODY>
+</HTML>

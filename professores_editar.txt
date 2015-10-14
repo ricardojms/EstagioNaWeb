@@ -1,0 +1,61 @@
+<HTML>
+<HEAD>
+<style type="text/css">
+html {
+background: url("http://i60.tinypic.com/2diokyu.jpg") repeat; }
+</style>
+<center>
+<a href="file:///C:/Users/Georgia/Desktop/proo_trabalho/home.html"><img src="http://i57.tinypic.com/33jsbad.jpg"></a>
+<br>
+</HEAD>
+<BODY>
+<center>
+Você está em: <b>ENVIO DE RELATÓRIO</b>
+<BR>
+<!-- COMEÇO DO FORMULÁRIO-->
+<form action="Script_do_Formulario.php" method="post">
+<!-- DADOS DE LOGIN -->
+<fieldset>
+
+<legend>Dados de Envio: </legend>
+
+<table cellspacing="10">
+<tr><td><label for="status">Status do relatório:</label></td>
+<td align="left">
+    <select name="status"> 
+    <option value="parcial">Parcial</option> 
+    <option value="final">Final</option> 
+   </select></td></tr>
+<tr><td><label for="status">Status da avaliação: </label></td>
+<td align="left">
+    <select name="statusav"> 
+    <option value="parcial">AVALIADA</option> 
+    <option value="final">NÃO AVALIADA</option> 
+   </select></td></tr>
+<tr><td><label for="nome">Correções: </label></td><td align="left"><input type="text" name="email"></td>
+<tr><td><label for="classificacao">Classificação:</label></td>
+<td align="left">
+    <select name="classificacao"> 
+    <option value="1">1</option> 
+    <option value="2">2</option> 
+	<option value="3">3</option> 
+    <option value="4">4</option>
+<option value="5">5</option> 
+    <option value="6">6</option>
+<option value="7">7</option> 
+    <option value="8">8</option>
+   <option value="9">9</option> 
+    <option value="10">10</option>
+   </select></td></tr>
+
+</table></fieldset>
+<br />
+<input type="submit">
+<input type="reset" value="Limpar">
+</form>
+<!-- FIM DO FORMULÁRIO-->
+
+
+
+</BODY>
+</HTML>

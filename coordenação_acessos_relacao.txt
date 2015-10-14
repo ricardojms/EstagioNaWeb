@@ -1,0 +1,124 @@
+<HTML>
+<HEAD>
+<style type="text/css">
+html {
+background: url("http://i60.tinypic.com/2diokyu.jpg") repeat; }
+</style>
+<center>
+<a href="file:///C:/Users/Georgia/Desktop/trapalho_prog/home.html"><img src="http://i57.tinypic.com/33jsbad.jpg"></a>
+<style>
+    .menufita-ribmenu span {
+        background:#ADD8E6;
+        display:inline-block;
+        font-family:tahoma;
+        line-height:2em;
+padding: 0 1em;
+        align: center;
+        position:center;
+          -webkit-transition: background-color 0.2s, margin-top 0.2s;  /* Saf3.2+, Chrome */
+        -moz-transition: background-color 0.2s, margin-top 0.2s;  /* FF4+ */
+        -ms-transition: background-color 0.2s, margin-top 0.2s;  /* IE10 */
+        -o-transition: background-color 0.2s, margin-top 0.2s;  /* Opera 10.5+ */
+        transition: background-color 0.2s, margin-top 0.2s;
+    }
+    .menufita-ribmenu a:hover span {
+        background:#8B7D6B;
+        margin-top:0;
+     
+    }
+    .menufita-ribmenu a:link, .menufita-ribmenu a:visited {
+        color:#000;
+        text-decoration:none;
+        float:center;
+        height:0.5em;
+        overflow:hidden;
+    }
+  
+    .menufita-ribmenu:after {
+        border-right-color:transparent;
+    }
+    .menufita-ribmenu:before {
+        border-left-color:transparent;
+    }
+    </style>
+
+<div class='menufita-ribmenu'>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/coord_login.html'><span>COORDENÇÃO</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/professores.html'><span>PROFESSORES ORIENTADORES</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/aluno.html'><span>ALUNOS</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/empresas.html'><span>EMPRESAS</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/visitante.html'><span>VISITANTE</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/sobre.html'><span>SOBRE</span></a>
+</div>
+<br>
+</center>
+</HEAD>
+
+<BODY>
+<center>
+Você está em: <b>COORDENAÇÃO > LOGIN > RELAÇÃO DE USUÁRIOS QUE ACESSAM OS DADOS </b>
+<br>
+<br>
+<style type="text/css">
+table {
+    border: 1px solid #000;
+    font-family: Verdana,sans-serif;
+    font-size: 12px;
+    margin: 10px auto;
+    width: 70%;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+thead tr:nth-child(1) {
+    background: #8FBC8F;
+    color: #fff;
+}
+tbody tr:nth-child(odd) {
+    background: #eee;
+}
+</style>
+
+
+<table>
+<thead>
+            <tr>
+              <th>NOME DO USURÁRIO</th>
+              <th>FUNÇÃO</th>
+              <th>LOGIN</th>
+		<th>ACESSO AS INFORMAÇÕES</th>
+                     
+</tr>
+</thead>
+
+<tr>
+<td>Coordenador 1</td>
+<td>Coordenador de Porjetos</td>
+<td>coord01</td>
+<td>TOTAL</td>
+</tr>
+<tr>
+<td>Coordenador 2</td>
+<td>Coordenador de Porjetos</td>
+<td>coord02</td><td>TOTAL</td>
+</tr>
+<tr>
+<td>Coordenador 3</td>
+<td>Coordenador de Porjetos</td>
+<td>coord03</td><td>TOTAL</td>
+</tr>
+<tr>
+<td>Coordenador 4</td>
+<td>Coordenador de Porjetos</td>
+<td>coord04</td><td>TOTAL</td>
+</tr>
+<tr>
+<td>Coordenador 5</td>
+<td>Coordenador de Porjetos</td>
+<td>coord05</td><td>TOTAL</td>
+</tr>	  
+</table>
+</BODY>
+</HTML>

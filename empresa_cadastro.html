@@ -1,0 +1,128 @@
+<HTML>
+<HEAD>
+<style type="text/css">
+html {
+background: url("http://i60.tinypic.com/2diokyu.jpg") repeat; }
+</style>
+<center>
+<a href="file:///C:/Users/Georgia/Desktop/trapalho_prog/home.html"><img src="http://i57.tinypic.com/33jsbad.jpg"></a>
+<style>
+    .menufita-ribmenu span {
+        background:#ADD8E6;
+        display:inline-block;
+        font-family:tahoma;
+        line-height:2em;
+padding: 0 1em;
+        align: center;
+        position:center;
+          -webkit-transition: background-color 0.2s, margin-top 0.2s;  /* Saf3.2+, Chrome */
+        -moz-transition: background-color 0.2s, margin-top 0.2s;  /* FF4+ */
+        -ms-transition: background-color 0.2s, margin-top 0.2s;  /* IE10 */
+        -o-transition: background-color 0.2s, margin-top 0.2s;  /* Opera 10.5+ */
+        transition: background-color 0.2s, margin-top 0.2s;
+    }
+    .menufita-ribmenu a:hover span {
+        background:#E0FFFF;
+        margin-top:0;
+     
+    }
+    .menufita-ribmenu a:link, .menufita-ribmenu a:visited {
+        color:#000;
+        text-decoration:none;
+        float:center;
+        height:0.5em;
+        overflow:hidden;
+    }
+  
+    .menufita-ribmenu:after {
+        border-right-color:transparent;
+    }
+    .menufita-ribmenu:before {
+        border-left-color:transparent;
+    }
+    </style>
+
+<div class='menufita-ribmenu'>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/coord_login.html'><span>COORDENÇÃO</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/professores.html'><span>PROFESSORES ORIENTADORES</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/aluno.html'><span>ALUNOS</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/empresas.html'><span>EMPRESAS</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/visitante.html'><span>VISITANTE</span></a>
+<a href='file:///C:/Users/Georgia/Desktop/trapalho_prog/sobre.html'><span>SOBRE</span></a>
+</div>
+<br>
+</HEAD>
+<BODY>
+<!-- COMEÇO DO FORMULÁRIO-->
+<form action="Script_do_Formulario.php" method="post">
+<!-- DADOS DA EMPRESA-->
+<fieldset>
+<legend>CADASTRO</legend>
+<table cellspacing="10">
+<tr><td><label for="nome">Nome da empresa: </label></td><td align="left"><input type="text" name="email"></td></tr>
+<tr><td><label for="rua">Rua:</label></td><td align="left"><input type="text" name="rua"></td><td><label for="numero">Numero:</label></td><td align="left">
+<input type="text" name="numero" size="4"></td></tr> 
+<tr><td><label for="bairro">Bairro: </label></td><td align="left"><input type="text" name="bairro"></td></tr><tr><td><label for="estado">Estado:</label></td>
+<td align="left">
+    <select name="estado"> 
+    <option value="ac">Acre</option> 
+    <option value="al">Alagoas</option> 
+    <option value="am">Amazonas</option> 
+    <option value="ap">Amapá</option> 
+    <option value="ba">Bahia</option> 
+    <option value="ce">Ceará</option> 
+    <option value="df">Distrito Federal</option> 
+    <option value="es">Espírito Santo</option> 
+    <option value="go">Goiás</option> 
+    <option value="ma">Maranhão</option> 
+    <option value="mt">Mato Grosso</option> 
+    <option value="ms">Mato Grosso do Sul</option> 
+    <option value="mg">Minas Gerais</option> 
+    <option value="pa">Pará</option> 
+    <option value="pb">Paraíba</option> 
+    <option value="pr">Paraná</option> 
+    <option value="pe">Pernambuco</option> 
+    <option value="pi">Piauí</option> 
+    <option value="rj">Rio de Janeiro</option> 
+    <option value="rn">Rio Grande do Norte</option> 
+    <option value="ro">Rondônia</option> 
+    <option value="rs">Rio Grande do Sul</option> 
+    <option value="rr">Roraima</option> 
+    <option value="sc">Santa Catarina</option> 
+    <option value="se">Sergipe</option> 
+    <option value="sp">São Paulo</option> 
+    <option value="to">Tocantins</option> 
+   </select></td></tr>
+<tr><td><label for="cidade">Cidade: </label></td><td align="left"><input type="text" name="cidade"></td></tr>
+<tr><td><label for="cep">CEP: </label></td><td align="left">
+<input type="text" name="cep" size="5" maxlength="5"> - <input type="text" name="cep2" size="3" maxlength="3">
+</td></tr>
+<td><label for="tel">Telefone:</label></td><td align="left"><input type="text" name="numero" size="11"></td>
+<tr><td><label for="nomerepre">Nome do representante legal: </label></td><td align="left"><input type="text" name="email"></td></tr>
+<tr><td><label for="email">E-mail: </label></td><td align="left"><input type="text" name="email"></td></tr>
+<td><label for="cnpj">CNPJ:</label></td><td align="left"><input type="text" name="numero" size="11"></td>
+<tr><td><label for="area">Area de Atuação: </label></td><td align="left"><input type="text" name="area"></td></tr>
+<tr><td><label for="vagas">Vagas:</label></td><td align="left"><input type="text" name="numero" size="3"></td> 
+<tr><td><label for="salario">Salário:</label></td><td align="left"><input type="text" name="numero" size="5"></td></tr>
+
+<tr><td><label for="beneficios">Benefícios:</label></td><td align="left">
+<input type="checkbox" name="beneficios" value="valetransporte" checked>Vale Transporte
+<input type="checkbox" name="beneficios" value="valealimentacao">Vale Alimentação<p>
+</select></tr>
+
+<tr><td><label for="requisito">Requisito:</label></td><td align="left"><input type="text" name="requisito"></td></tr>
+<tr><td><label for="horario">Horário:</label></td><td align="left">
+<input type="text" name="horario" size="2" maxlength="2">:<input type="text" name="horario2" size="2" maxlength="2"> às <input type="text" name="horario3" size="2" maxlength="2">:<input type="text" name="horario4" size="2" maxlength="2">
+</td></tr>
+<tr><td><label for="duracao">Duração:</label></td><td align="left">
+<input type="text" name="duracao"></td></tr>
+</table></fieldset>
+<br>
+<center><tr><td><input type="submit" value="Enviar"></td></tr></center>
+</form>
+<!-- FIM DO FORMULÁRIO-->
+
+
+
+</BODY>
+</HTML>

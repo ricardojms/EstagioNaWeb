@@ -1,29 +1,25 @@
-# EstagioNaWeb
-Sistema desenvolvido como trabalho para Nota na disciplina Fundamentos de Programa√ß√£o para a Internet
+------------------------------------------------------------
+Arquivo LEIAME do EstagioNaWeb - Sistema de Controle de Est·gio 
+------------------------------------------------------------
+
+Este arquivo contÈm informaÁıes importantes sobre este programa.
+Leia com atenÁ„o as informaÁıes antes de comeÁar a instalaÁ„o.
+
+O EstagioNaWeb foi desenvolvido para avaliaÁ„o da matÈria 
+Fundamentos de ProgramaÁ„o para Internet, do 3∫ PerÌodo do Curso
+de Sistemas de InformaÁ„o - IFAL MaceiÛ, pelos Alunos:
 
 
 ------------------------------------------------------------
-Arquivo LEIAME do EstagioNaWeb - Sistema de Controle de Est√°gio 
-------------------------------------------------------------
-
-Este arquivo cont√©m informa√ß√µes importantes sobre este programa.
-Leia com aten√ß√£o as informa√ß√µes antes de come√ßar a instala√ß√£o.
-
-O EstagioNaWeb foi desenvolvido para avalia√ß√£o da mat√©ria 
-Fundamentos de Programa√ß√£o para Internet, do 3¬∫ Per√≠odo do Curso
-de Sistemas de Informa√ß√£o - IFAL Macei√≥, pelos Alunos:
-
-
-------------------------------------------------------------
-Notas sobre a instala√ß√£o
+Notas sobre a instalaÁ„o
 ------------------------------------------------------------
 
 Requisitos de Sistema:
 
-- Apache vers√£o: qualquer
+- Apache vers„o: qualquer
 
 ------------------------------------------------------------
-Instala√ß√£o
+InstalaÁ„o
 ------------------------------------------------------------
 
 Os arquivos devem ser copiados para a pasta raiz do servidor web
@@ -37,28 +33,28 @@ Funcionamento
 Primeiro acesso:
 =================
 
-1. Aponte o seu navegador para o endere√ßo (URL) onde esta instalado o sistema 
-2. Clique no menu no alto da pagina principal, a op√ß√£o desejada.
+1. Aponte o seu navegador para o endereÁo (URL) onde esta instalado o sistema 
+2. Clique no menu no alto da pagina principal, a opÁ„o desejada.
 
 
 ------------------------------------------------------------
-Op√ß√µes do Menu Principal
+OpÁıes do Menu Principal
 ------------------------------------------------------------
 
-- Coordena√ß√£o
+- CoordenaÁ„o
 
-Clicando na op√ß√£o do menu da pagina principal "coordena√ß√£o", √© acessado com as seguintes op√ß√µes:
+Clicando na opÁ„o do menu da pagina principal "coordenaÁ„o", È acessado com as seguintes opÁıes:
 
-Informa√ß√µes das empresas cadastradas:
-Clicando nessa op√ß√£o, o usu√°rio √© levado a uma p√°gina onde ele visualizar√° informa√ß√µes das 
-empresas que s√£o conveniadas com a institui√ß√£o de ensino e seus dados relativos a empresa e ao
-que ela oferece em termos de est√°gio.
+InformaÁıes das empresas cadastradas:
+Clicando nessa opÁ„o, o usu·rio È levado a uma p·gina onde ele visualizar· informaÁıes das 
+empresas que s„o conveniadas com a instituiÁ„o de ensino e seus dados relativos a empresa e ao
+que ela oferece em termos de est·gio.
 
-Informa√ß√µes das √°reas das empresas cadastradas:
+InformaÁıes das ·reas das empresas cadastradas:
 
-Rela√ß√£o de usu√°rios que acessam os dados:
+RelaÁ„o de usu·rios que acessam os dados:
 
-Registro e acompanhamento dos est√°gios:
+Registro e acompanhamento dos est·gios:
 
 Lista de Ofertas:
 
@@ -98,10 +94,10 @@ Lista de Ofertas:
 ------------------------------------------------------------
 Equipe
 ------------------------------------------------------------
-Ge√≥rgia (georgiademas@hotmail.com)
+GeÛrgia (georgiademas@hotmail.com)
 Ricardo (ricardojms@gmail.com)
 Antonio (antonioagarruda@hotmail.com)
 
 ------------------------------------------------------------
-Copyright 2015 - IFAL-Macei√≥
+Copyright 2015 - IFAL-MaceiÛ
 Todos os direitos reservados
