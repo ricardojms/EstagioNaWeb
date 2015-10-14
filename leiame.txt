@@ -1,0 +1,107 @@
+# EstagioNaWeb
+Sistema desenvolvido como trabalho para Nota na disciplina Fundamentos de Programação para a Internet
+
+
+------------------------------------------------------------
+Arquivo LEIAME do EstagioNaWeb - Sistema de Controle de Estágio 
+------------------------------------------------------------
+
+Este arquivo contém informações importantes sobre este programa.
+Leia com atenção as informações antes de começar a instalação.
+
+O EstagioNaWeb foi desenvolvido para avaliação da matéria 
+Fundamentos de Programação para Internet, do 3º Período do Curso
+de Sistemas de Informação - IFAL Maceió, pelos Alunos:
+
+
+------------------------------------------------------------
+Notas sobre a instalação
+------------------------------------------------------------
+
+Requisitos de Sistema:
+
+- Apache versão: qualquer
+
+------------------------------------------------------------
+Instalação
+------------------------------------------------------------
+
+Os arquivos devem ser copiados para a pasta raiz do servidor web
+(Apache) e que suporte html5 e CSS. 
+
+
+------------------------------------------------------------
+Funcionamento
+------------------------------------------------------------
+
+Primeiro acesso:
+=================
+
+1. Aponte o seu navegador para o endereço (URL) onde esta instalado o sistema 
+2. Clique no menu no alto da pagina principal, a opção desejada.
+
+
+------------------------------------------------------------
+Opções do Menu Principal
+------------------------------------------------------------
+
+- Coordenação
+
+Clicando na opção do menu da pagina principal "coordenação", é acessado com as seguintes opções:
+
+Informações das empresas cadastradas:
+Clicando nessa opção, o usuário é levado a uma página onde ele visualizará informações das 
+empresas que são conveniadas com a instituição de ensino e seus dados relativos a empresa e ao
+que ela oferece em termos de estágio.
+
+Informações das áreas das empresas cadastradas:
+
+Relação de usuários que acessam os dados:
+
+Registro e acompanhamento dos estágios:
+
+Lista de Ofertas:
+
+
+- Professores Orientadores 
+
+
+
+
+
+
+- Alunos
+
+
+
+
+
+- Empresas
+
+
+
+
+
+
+- Visitante
+
+
+
+
+
+
+- Sobre
+
+
+
+
+------------------------------------------------------------
+Equipe
+------------------------------------------------------------
+Geórgia (georgiademas@hotmail.com)
+Ricardo (ricardojms@gmail.com)
+Antonio (antonioagarruda@hotmail.com)
+
+------------------------------------------------------------
+Copyright 2015 - IFAL-Maceió
+Todos os direitos reservados
