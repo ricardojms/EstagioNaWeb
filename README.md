@@ -1,0 +1,127 @@
+# EstagioNaWeb
+Sistema de Controle de Estágio desenvolvido para a disciplina Fundamentos de Programação para a Internet
+------------------------------------------------------------
+Arquivo LEIAME do EstagioNaWeb - Sistema de Controle de Estágio 
+------------------------------------------------------------
+
+Este arquivo contém informações importantes sobre este programa.
+Leia com atenção as informações antes de começar a instalação.
+
+O EstagioNaWeb foi desenvolvido para avaliação da matéria 
+Fundamentos de Programação para Internet, do 3º Período do Curso
+de Sistemas de Informação - IFAL Maceió, pelos Alunos:
+
+Georgia Demas e Ricardo Melo
+------------------------------------------------------------
+Notas sobre a instalação
+------------------------------------------------------------
+
+Requisitos de Sistema:
+
+- Apache versão: qualquer
+
+------------------------------------------------------------
+Instalação
+------------------------------------------------------------
+
+Os arquivos devem ser copiados para a pasta raiz do servidor web
+(Apache) e que suporte html5 e CSS. 
+
+
+------------------------------------------------------------
+Funcionamento
+------------------------------------------------------------
+
+Primeiro acesso:
+=================
+
+1. Aponte o seu navegador para o endereço (URL) onde esta instalado o sistema 
+2. Clique no menu do topo da pagina principal para iniciar, escolhendo a opção desejada.
+
+
+------------------------------------------------------------
+Opções do Menu Principal
+------------------------------------------------------------
+
+- Coordenação
+
+A area do menu principal 'coordenação' exige um login de acesso que cada coordenador deve possuir para
+conseguir visualizar os campos seguintes.Após logar-se em sua conta, o coordenador tem acesso a outro menu. 
+
+1.Informações das empresas cadastradas:
+Clicando nessa opção, o usuário é levado a uma página onde ele visualizará informações das 
+empresas que são conveniadas com a instituição de ensino e seus dados relativos a empresa, ao
+que ela oferece em termos de estágio e dados do convenio.
+
+2.Informações das áreas das empresas cadastradas:
+Clicando nessa opção, o usuário é levado a uma página onde ele visualizará informações das areas 
+empresas que são conveniadas com a instituição de ensino, assim como uma descrição de cada area citada.
+
+3.Relação de usuários que acessam os dados:
+Clicando nessa opção, o usuário é levado a uma página onde ele visualizará informações dos usuários que podem acessar
+os dados da area privada da coordenação.
+
+4.Registro e acompanhamento dos estágios:
+Clicando nessa opção, o usuário é levado a uma página onde ele visualizará informações sobre os alunos estagiários, assim como
+o andamento de seus relatórios e a situação de seu estágio.
+
+5.Lista de Ofertas:
+Clicando nessa opção, o usuário é levado a uma página onde ele visualizará informações dsas vagas ofertadas pelas empresas
+afiliadas da instituição. 
+
+
+- Professores Orientadores 
+
+A area do menu principal 'Professores Orientadores' exige um login de acesso que cada professor deve possuir para
+conseguir visualizar os campos seguintes. Após logar-se em sua conta, o professor tem acesso a página de avaliação de relatórios
+onde ele pode controlar o envio, o andamento e a correção dos relatórios de seus alunos. O professor pode editar cada campo
+adicionando feedback e as informações que julgar necessárias para alteração, clicando em editar. 
+
+
+
+- Alunos
+A area do menu principal 'Alunos' da acesso a outro menu cujo exibe as opções abaixo:
+
+1.Entrega de relatórios: 
+Onde o aluno pode encaminhar o arquivo do seu relatório diretamente para seu professor.
+
+2.Acompanhamento de avaliações:
+Onde o aluno pode conferir os Status dos relatórios dos alunos de cada professor. 
+
+
+- Empresas
+A area do menu principal 'Empresas' da acesso a outro menu cujo exibe as opções abaixo:
+
+1.Cadastre sua empresa: 
+Onde as empresas podem se cadastrar na lista de filiados da instituição de ensino.
+
+2.Ofertas de estágios:
+Onde o usuário pode conferir as listas de estágios das empresas contratantes filiadas da instituição de ensino.
+
+
+- Visitante
+
+
+1.Lista de empresas contratantes:
+Onde o usuário pode conferir todas as empresas contratantes filiadas da instituição de ensino.
+
+2.Consulta de vagas de estágios: 
+Onde o usuário pode conferir as listas de vagas de estágios nas empresas contratantes filiadas da instituição de ensino.
+
+
+
+- Sobre
+
+A area do menu principal 'Sobre' exibe os nomes e emails dos alunos responsábeis pelo desenvolvimento desse sitema,
+assim como o mapa do site e o conteúdo desse arquivo LEIA-ME.
+
+------------------------------------------------------------
+Equipe
+------------------------------------------------------------
+Geórgia (georgiademas@hotmail.com)
+Ricardo (ricardojms@gmail.com)
+Antonio (antonioagarruda@hotmail.com)
+
+------------------------------------------------------------
+Copyright 2015 - IFAL-Maceió
+Todos os direitos reservados
